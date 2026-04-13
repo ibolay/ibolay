@@ -1,2 +1,2 @@
 ## ibolay's profile 🌌
-![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![Python](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)

@@ -1,6 +1,11 @@
 <h1 align="center">🌌 Welcome to my GitHub</h1>
 
 <table align="center">
+<tr>
+
+<td valign="top">
+
+<table>
   <tr>
     <td><img src="github.svg" width="60"></td>
     <td><img src="html5.svg" width="60"></td>
@@ -20,9 +25,10 @@
   </tr>
 </table>
 
-<!-- SAĞ: GIF -->
+</td>
+
 <td valign="top" style="padding-left:30px;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1ZXUxbjdpNGk3NzRqMHAydjR3dDB5M2dueDZ1MG1mZmhqaGduOSZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="250">
+  <img src="https://media0.giphy.com/media/.../giphy.gif" width="250">
 </td>
 
 </tr>

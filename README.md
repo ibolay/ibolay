@@ -1,12 +1,6 @@
 <h1 align="center">🌌 Welcome to my GitHub</h1>
 
 <table align="center">
-<tr>
-
-<!-- SOL: SVG GRID -->
-<td>
-
-<table>
   <tr>
     <td><img src="github.svg" width="60"></td>
     <td><img src="html5.svg" width="60"></td>
@@ -22,12 +16,9 @@
     <td><img src="kali.svg" width="60"></td>
     <td><img src="linux.svg" width="60"></td>
     <td><img src="vscode.png" width="60"></td>
-    <td><img src="js.svg" width="60"></td>
+    <td></td>
   </tr>
-  
 </table>
-
-</td>
 
 <!-- SAĞ: GIF -->
 <td valign="top" style="padding-left:30px;">

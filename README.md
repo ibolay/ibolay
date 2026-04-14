@@ -1,10 +1,6 @@
 <h1 align="center">🌌 Welcome to my GitHub</h1>
 <p align="center">Learning & Building</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibolay&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true">
-</p>
-
 <table align="center">
 <tr>
 
@@ -31,3 +27,8 @@
 
 </tr>
 </table>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibolay&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true">
+</p>

@@ -22,7 +22,7 @@
     <td><img src="kali.svg" width="60"></td>
     <td><img src="linux.svg" width="60"></td>
     <td><img src="vscode.png" width="60"></td>
-    <td><img src="" width="60"></td>
+    <td><img src="js.svg" width="60"></td>
   </tr>
   
 </table>

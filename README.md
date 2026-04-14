@@ -1,5 +1,4 @@
 <h1 align="center">🌌 Welcome to my GitHub</h1>
-<p align="center">Learning & Building</p>
 
 <table align="center">
 <tr>
@@ -16,6 +15,16 @@
     <td><img src="python.svg" width="60"></td>
     <td><img src="arduino.svg" width="60"></td>
   </tr>
+
+  <tr>
+    <td><img src="cyber.svg" width="60"></td>
+    <td><img src="git.png" width="60"></td>
+    <td><img src="kali.svg" width="60"></td>
+    <td><img src="linux.svg" width="60"></td>
+    <td><img src="vscode.png" width="60"></td>
+    <td><img src="" width="60"></td>
+  </tr>
+  
 </table>
 
 </td>

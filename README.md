@@ -26,10 +26,10 @@
 </tr>
 
 <tr align="center">
-<td><img src="nodejs.png" width="50"><br><sub>Node.js</sub></td>
+<td><img src="nodejs.svg" width="50"><br><sub>Node.js</sub></td>
 <td><img src="python.svg" width="50"><br><sub>Python</sub></td>
 <td><img src="linux.png" width="50"><br><sub>Linux</sub></td>
-<td><img src="kalilinux.png" width="50"><br><sub>Kali Linux</sub></td>
+<td><img src="kalilinux.svg" width="50"><br><sub>Kali</sub></td>
 <td><img src="arduino.svg" width="50"><br><sub>Arduino</sub></td>
 <td><img src="cyber.svg" width="50"><br><sub>Cyber</sub></td>
 </tr>

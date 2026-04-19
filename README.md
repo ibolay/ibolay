@@ -16,7 +16,7 @@
   <tr align="center">
     <td><img src="github.svg" width="60"><br>GitHub</td>
     <td><img src="git.png" width="60"><br>Git</td>
-    <td><img src="vscode.png" width="60"><br>VS Code</td>
+    <td><img src="vscode.svg" width="60"><br>VS Code</td>
     <td><img src="html5.svg" width="60"><br>HTML</td>
     <td><img src="css3.svg" width="60"><br>CSS</td>
     <td><img src="js.svg" width="60"><br>JavaScript</td>

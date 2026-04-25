@@ -11,7 +11,6 @@
 <table>
 <tr>
 
-<!-- SOL -->
 <td>
 
 <table>
@@ -38,7 +37,6 @@
 
 </td>
 
-<!-- SAĞ GIF -->
 <td style="padding-left:30px;">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1ZXUxbjdpNGk3NzRqMHAydjR3dDB5M2dueDZ1MG1mZmhqaGduOSZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="230">
 </td>

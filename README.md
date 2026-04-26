@@ -24,6 +24,7 @@
 <td><img src="js.svg" width="50"><br><sub>JavaScript</sub></td>
 </tr>
 
+
 <tr align="center">
 <td><img src="nodejs.svg" width="50"><br><sub>Node.js</sub></td>
 <td><img src="python.svg" width="50"><br><sub>Python</sub></td>

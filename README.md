@@ -11,7 +11,6 @@
 <table>
 <tr>
 <td>
-  
 <table>
 
 <tr align="center">

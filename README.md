@@ -1,8 +1,5 @@
 <h1 align="center"> Welcome to my GitHub</h1>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibolay&bg_color=0d1117&color=58a6ff&line=2ea043&point=f85149&area=true&hide_border=true">
-</p>
 
 <br>
 
